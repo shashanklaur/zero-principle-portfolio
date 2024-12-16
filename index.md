@@ -19,7 +19,7 @@ Connect with me:
 
 ## My Brand
 
-![Zero Principle Logo](logo.png)
+![Zero Principle Logo](logo.webp)
 
 ### Balance and Purpose
 The **yin-yang** inspired logo represents harmony and simplicity, values that guide both my personal and professional journey.
@@ -27,7 +27,7 @@ The **yin-yang** inspired logo represents harmony and simplicity, values that gu
 ---
 
 ## Banner
-![Zero Principle Banner](banner.png)
+![Zero Principle Banner](banner.webp)
 
 ---
 
