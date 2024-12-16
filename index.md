@@ -11,7 +11,7 @@ Welcome to my personal portfolio, showcasing my digital presence as a **spiritua
 
 Connect with me:
 
-- [LinkedIn](https://linkedin.com/shashanklaur/)  
+- [LinkedIn](https://linkedin.com/in/shashank-laur-965b76157/)  
 - [GitHub](https://github.com/shashanklaur)  
 - [Instagram](https://instagram.com/shashanklaur)
 
